@@ -1,0 +1,1 @@
+A set of utilities and libraries that I find useful and want to reuse.  I didn't write all (most) of these and will give attribution to the author/source at the top of the file when applicable.
