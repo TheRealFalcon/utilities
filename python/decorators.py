@@ -1,5 +1,6 @@
 # Created by Oren Tirosh on Thu, 2 Aug 2012
 # Taken from http://code.activestate.com/recipes/578231-probably-the-fastest-memoization-decorator-in-the-/
+# Licensed under the MIT license
 def memoize(func):
     ''' Memoization decorator for function taking a single argument. '''
     class memoize(dict):
@@ -10,6 +11,7 @@ def memoize(func):
 
 # Created by Oren Tirosh on Thu, 2 Aug 2012
 # Taken from http://code.activestate.com/recipes/578233-immutable-class-decorator/
+# Licensed under the MIT license
 def immutable(mutableclass):
     ''' Apply decorator to class with __slots__, and members
     will be made mutable during execution of __init__

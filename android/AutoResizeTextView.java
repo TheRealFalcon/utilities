@@ -1,4 +1,5 @@
-//Taken from http://stackoverflow.com/questions/5033012/auto-scale-textview-text-to-fit-within-bounds
+// Taken from http://stackoverflow.com/questions/5033012/auto-scale-textview-text-to-fit-within-bounds
+// No license information given, though the author left a comment saying "In the spirit of Android, it's all yours!"
 
 package com.fakebook;
 
