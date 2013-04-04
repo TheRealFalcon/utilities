@@ -3,8 +3,8 @@
 FNAME=$1
 
 if [[ -z "$FNAME" ]]; then
-    echo "crypten <name of file>"
-    echo "  - crypten is a script to encrypt files using des3"
+    echo "encrypt <name of file>"
+    echo "  - encrypt is a script to encrypt files using des3"
     exit;
 fi
 
