@@ -3,8 +3,8 @@
 FNAME=$1
 
 if [[ -z "$FNAME" ]]; then
-    echo "cryptde <name of file>"
-    echo "  - cryptde is a script to decrypt des3 encrypted files"
+    echo "decrypt <name of file>"
+    echo "  - decrypt is a script to decrypt des3 encrypted files"
     exit;
 fi
 
