@@ -1,0 +1,6 @@
+#!/usr/bin/env perl
+
+$SIG{INT} = 'DEFAULT';
+$SIG{TERM} = 'DEFAULT';
+
+exec "/opt/pycharm/current/bin/pycharm.sh"
